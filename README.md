@@ -8,24 +8,12 @@ launch an online video rental service in order to stay competitive.
 **#Objective**
 Our collaboration with Rockbusters Business Intelligence team will assist in the launch of the new online service's strategy. The dataset provided is composed of a relational database containing details about the current clients.
 
-**#Fact_Tables**
-Payment
-Rental
-
-**#Dimension_Tables**
-Actor
-Address
-Category
-City
-Country
-Customer
-Film
-Film Actor
-Film Category
-Inventory
-Language
-Staff
-Store
+#Key questions
+● Which movies contributed the most/least to revenue gain?
+● What was the average rental duration for all videos?
+● Which countries are Rockbuster customers based in?
+● Where are customers with a high lifetime value based?
+● Do sales figures vary between geographic regions?
 
 **#Visualizations**
 link- https://public.tableau.com/app/profile/arushi.m3379/viz/CustomerBaseofRockbusteracrossvariouscountries/Sheet1
